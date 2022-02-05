@@ -1,0 +1,13 @@
+*{
+   margin: 0%;
+   padding: 0%
+}
+.homestyle h2 {
+   display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: black;
+  background: rgb(145, 22, 94);
+  width: 100%;
+  height: 300px;  
+}
